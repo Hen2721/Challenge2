@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">challenge chapter 2</string>
+    <style name="SwitchStyle">
+        <item name="android:thumbTint">@color/switch_thumb_color</item>
+        <item name="android:trackTint">@color/switch_track_color</item>
+    </style>
+    <style name="CircularImageView">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
+
